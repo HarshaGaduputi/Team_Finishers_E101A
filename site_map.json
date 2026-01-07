@@ -1,0 +1,32 @@
+{
+  "/": [
+    "/imghp",
+    "/preferences",
+    "/advanced_search",
+    "/setprefs",
+    "/intl/en/ads/",
+    "/intl/en/about.html",
+    "/setprefdomain",
+    "/intl/en/policies/privacy/",
+    "/intl/en/policies/terms/"
+  ],
+  "/imghp": [
+    "/preferences",
+    "/advanced_image_search",
+    "/intl/en/ads/",
+    "/intl/en/about.html",
+    "/intl/en/policies/privacy/",
+    "/intl/en/policies/terms/"
+  ],
+  "/preferences": [
+    "/url"
+  ],
+  "/advanced_search": [
+    "/webhp",
+    "/preferences",
+    "/url"
+  ],
+  "/setprefs": [
+    "/url"
+  ]
+}
